@@ -15,11 +15,11 @@
     <div>
       <h1>Linguagens e Tecnologias</h1>
         <img heigth="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-plain-wordmark.svg"/>
-        <img eigth="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
-        <img eigth="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/> 
-        <img eigth="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg"/>
-        <img eigth="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
-        <img eigth="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"/>     
+        <img heigth="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg"/>
+        <img heigth="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg"/> 
+        <img heigth="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-line.svg"/>
+        <img heigth="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg"/>
+        <img heigth="80" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-plain.svg"/>     
       </div>
 </body>
 </html>
